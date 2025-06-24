@@ -1,0 +1,27 @@
+{
+	"name": "practice",
+	"version": "1.0.0",
+	"description": "インターン期間に作成",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"format": "prettier --write . && echo \"prettierを実行しました\"",
+		"formatCheck": "prettier --check ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/TatsuyaSolas/practice.git"
+	},
+	"author": "Tatsuya",
+	"license": "UNLICENSED",
+	"bugs": {
+		"url": "https://github.com/TatsuyaSolas/practice/issues"
+	},
+	"homepage": "https://github.com/TatsuyaSolas/practice#readme",
+	"devDependencies": {
+		"prettier": "^3.6.0"
+	},
+	"dependencies": {
+		"bubbly-bg": "^1.0.0"
+	}
+}

@@ -1,0 +1,2 @@
+# node_modules以下のファイルを除外する
+node_modules
